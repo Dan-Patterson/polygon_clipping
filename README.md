@@ -17,3 +17,7 @@ I don't cover interior holes, but it could be included by processing the exterio
 **Initial Post**
 - 2022-02-23
 
+
+<img src="images/single_cross_s00_t0.png" align="left" width="500"/>
+
+<img src="images/single_cross_c2CC.png" align="left" width="500"/>
