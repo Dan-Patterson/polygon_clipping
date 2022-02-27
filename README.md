@@ -20,4 +20,8 @@ I don't cover interior holes, but it could be included by processing the exterio
 
 <img src="images/single_cross_s00_t0.png" align="left" width="500"/>
 
+This single cross has the intersection points at the vertices of a line segment.
+
 <img src="images/single_cross_c2CC.png" align="left" width="500"/>
+
+In this example, only one vertex is meets an intersection point
