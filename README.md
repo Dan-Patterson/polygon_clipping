@@ -17,11 +17,12 @@ I don't cover interior holes, but it could be included by processing the exterio
 **Initial Post**
 - 2022-02-23
 
+<img src="images/single_cross_s00_t0.png" align="right" width="500"/>  
+<img src="images/single_cross_c2CC.png" align="right" width="500"/>  
 
+This single cross has the intersection points at the vertices of a line segment.  
 
-This single cross has the intersection points at the vertices of a line segment. <img src="images/single_cross_s00_t0.png" align="right" width="500"/>
-
-In this example, only one vertex is meets an intersection point. <img src="images/single_cross_c2CC.png" align="right" width="500"/>
+In this example, only one vertex is meets an intersection point.  
 
 <!-- <a href="url"><img src="../images/npGeo_conversion_tools.png" align="center" height="auto" width="200" ></a> -->
 
