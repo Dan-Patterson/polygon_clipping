@@ -20,10 +20,10 @@ I don't cover interior holes, but it could be included by processing the exterio
 <!--The image ... <a href="url"><img src="code_format_options.png" align="left" height="auto" width="400"></a> <br clear="all"> -->
 <p>
 
-| single cross examples|  |
-| ------------ | -------- |
-| <img src="images/single_cross_s00_t0.png" width="350"/> | <img src="images/single_cross_c2CC.png" width="350"/> |
-| This intersection points meet at the vertices of a line segment. | A single vertex meets an intersection point. |
+|      | single cross examples|  |
+| ------------ | -------- | --------- |
+| <img src="images/b0c0_intersect_0.png" width="350"/> |<img src="images/single_cross_s00_t0.png" width="350"/> | <img src="images/single_cross_c2CC.png" width="350"/> |
+| Three single crosses, no intersection with vertices | This intersection points meet at the vertices of a line segment. | A single vertex meets an intersection point. |
 
 </p>
 <br clear="right">
