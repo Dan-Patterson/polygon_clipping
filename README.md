@@ -16,8 +16,11 @@ I don't cover interior holes, but it could be included by processing the exterio
 
 **Initial Post**
 - 2022-02-23
+
+<!--The image ... <a href="url"><img src="code_format_options.png" align="left" height="auto" width="400"></a> <br clear="all"> -->
 <p>
-<img src="images/single_cross_s00_t0.png" align="right" width="350"/>  This single cross has the intersection points at the vertices of a line segment.  
+This single cross has the intersection points at the vertices of a line segment.  <img src="images/single_cross_s00_t0.png" align="right" width="500"/>
+
 </p>
 <br clear="right">
 In this example, only one vertex is meets an intersection point.  <img src="images/single_cross_c2CC.png" align="right" width="350"/>  
