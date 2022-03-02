@@ -1,0 +1,110 @@
+---
+---
+
+@import "{{ site.theme }}";
+/* Wrapper change from 960px  */
+.wrapper {
+  width:1280px;
+}
+
+/* Code blocks */
+
+code, pre {
+	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color:#000;
+  font-size:12px;
+}
+
+pre {
+	padding: 4px 12px;
+  background: #FDFEFB;
+  border-radius:4px;
+  border:1px solid #D7D8C8;
+  overflow: auto;
+  overflow-y: hidden;
+	margin-bottom: 32px;
+}
+
+/* Section - for main page content changed from 650*/
+
+section {
+  width:960px;
+  float:right;
+  padding-bottom:50px;
+}
+
+/* Tables */
+
+table {
+  width:100%;
+}
+
+table {
+  border: 1px solid #ccc;
+  margin-bottom: 32px;
+  text-align: left;
+ }
+
+th {
+  font-family: 'Arvo', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+  padding: 10px;
+  background: #f2f6ff;
+  color: #000000;
+ }
+
+td {
+  padding: 10px;
+	background: #ccc;
+ }
+
+/* Footer */
+
+footer {
+  width:170px;
+  float:left;
+  position:fixed;
+  bottom:10px;
+	padding-left: 50px;
+}
+
+/* changed max width from 960px */
+@media print, screen and (max-width: 1280px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+	footer {
+		border-top: 1px solid #ccc;
+		margin:0 84px 0 50px;
+		padding:0;
+	}
+
+  header {
+    padding-right:320px;
+  }
+
+  section {
+    padding:20px 84px 20px 50px;
+    margin:0 0 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:130px;
+    top:84px;
+  }
+}
