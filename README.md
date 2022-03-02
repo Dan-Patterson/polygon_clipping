@@ -1,5 +1,6 @@
-# polygon_clipping
-Python, NumPy polygon clipping for concave and convex polygons.
+# Polygon Clipping
+
+**Python, NumPy polygon clipping for concave and convex polygons.**
 
 
 This implementation sets out to determine the intersection (clip) between two polygons.
@@ -20,18 +21,21 @@ I don't cover interior holes, but it could be included by processing the exterio
 <!--The image ... <a href="url"><img src="code_format_options.png" align="left" height="auto" width="400"></a> <br clear="all"> -->
 <p>
 
-|      | single cross examples|  |
-| ------------ | -------- | --------- |
-| <img src="images/b0c0_intersect_0.png" width="350"/> |<img src="images/single_cross_s00_t0.png" width="350"/> | <img src="images/single_cross_c2CC.png" width="350"/> |
-| Three single crosses, no intersection with vertices | This intersection points meet at the vertices of a line segment. | A single vertex meets an intersection point. |
+|      single cross examples|  |
+| ------------ | -------- |
+| <img src="images/b0c0_intersect_0.png" width="350"/> |<img src="images/single_cross_s00_t0.png" width="350"/> |
+| Three single crosses, no intersection with vertices | This intersection points meet at the vertices of a line segment. |
+| <img src="images/single_cross_c2CC.png" width="350"/> | |
+| A single vertex meets an intersection point. |  |
 
 </p>
 
 <p>
 
-|      | double cross examples|   |
-| ------------ | -------- | --------- |
-| <img src="images/double_cross_t4s02.png"  width="350"/>     |            |          |
+|   double cross examples|   |
+| ------------ | -------- |
+| <img src="images/double_cross_t4s02.png"  width="350"/>     |            |
+| Two crossing segments. Extra segment vertices can complicate things.  |  |
 
 
 </p>
