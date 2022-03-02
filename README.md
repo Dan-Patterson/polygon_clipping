@@ -26,6 +26,15 @@ I don't cover interior holes, but it could be included by processing the exterio
 | Three single crosses, no intersection with vertices | This intersection points meet at the vertices of a line segment. | A single vertex meets an intersection point. |
 
 </p>
+
+<p>
+
+|      | double cross examples|   |
+| ------------ | -------- | --------- |
+| <img src="images/double_cross_t4s02.png"  width="350"/>     |            |          |
+
+
+</p>
 <br clear="right">
 
 
