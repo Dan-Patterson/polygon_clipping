@@ -23,10 +23,10 @@ I don't cover interior holes, but it could be included by processing the exterio
 
 |      single cross examples|  |
 | ------------ | -------- |
-| <img src="images/b0c0_intersect_0.png" width="350"/> |<img src="images/single_cross_s00_t0.png" width="350"/> |
-| Three single crosses, no intersection with vertices | This intersection points meet at the vertices of a line segment. |
-| <img src="images/single_cross_c2CC.png" width="350"/> | |
-| A single vertex meets an intersection point. |  |
+| <img src="images/single_cross_s01_t0.png" width="350"/> | <img src="images/single_cross_s00_t0.png" width="350"/> |
+| Single segment crossing two segments, no intersections at vertices.| This intersection points meet at the vertices of a line segment. |
+| <img src="images/single_cross_c2CC.png" width="350"/> | <img src="images/b0c0_intersect_0.png" width="350"/> |
+|  A single vertex meets an intersection point.  | Three single crosses, no intersection with vertices |
 
 </p>
 
