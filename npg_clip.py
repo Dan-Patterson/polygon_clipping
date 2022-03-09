@@ -33,9 +33,9 @@ import numpy as np
 # from numpy.lib.recfunctions import unstructured_to_structured as uts
 # from numpy.lib.recfunctions import repack_fields
 
-import npg
-from npg import npg_plots
-from npg.npg_plots import plot_polygons
+# import npg
+# from npg import npg_plots
+# from npg.npg_plots import plot_polygons
 # from npg.npg_utils import time_deco
 ft = {"bool": lambda x: repr(x.astype(np.int32)),
       "float_kind": '{: 6.2f}'.format}
