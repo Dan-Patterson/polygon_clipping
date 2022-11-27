@@ -18,8 +18,8 @@ Enough said, the script can be imported and used with clockwise oriented NumPy a
 I don't cover interior holes, but it could be included by processing the exterior rings first, then reversing the order of interior rings and processing those, combining the results at the end.  I didn't since it was more of venture of finding out where this worked and where logic failed.  As such, I will make notes of changes that I make as I test more polygon arrangements.
 
 
-**Initial Post**
-- 2022-02-23
+**Last edit ...**
+- 2022-11-27
 
 <!--The image ... <a href="url"><img src="code_format_options.png" align="left" height="auto" width="400"></a> <br clear="all"> -->
 <p>
@@ -40,7 +40,13 @@ I don't cover interior holes, but it could be included by processing the exterio
 | <img src="images/double_cross_t4s02.png"  width="350"/>     |            |
 | Two crossing segments. Extra segment vertices can complicate things.  |  |
 
+<p>
 
+|      complex polygon examples|  |
+| ------------ | -------- |
+| <img src="images/edgy1_eclip_inputs.png" width="400"/> | <img src="images/edgy1_eclip.png" width="400"/> |
+
+The blue polygon is the clipping polygon and the black one is the polygon being clipped.
 </p>
 <br clear="right">
 
