@@ -4,7 +4,9 @@
 
 Source code is part of numpy_geometry... `npg`.
 
-[Polygon clipping source code](https://github.com/Dan-Patterson/numpy_geometry/blob/master/arcpro_npg/npg/npg/npg_clip.py)
+[Polygon clipping source code.](https://github.com/Dan-Patterson/numpy_geometry/blob/master/arcpro_npg/npg/npg/npg_clip.py)
+
+[Clipping discussion and example.](https://github.com/Dan-Patterson/geonumeracy/blob/main/docs/clipping/clip.md)
 
 This implementation sets out to determine the intersection (clip) between two polygons.
 I employed
