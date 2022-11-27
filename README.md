@@ -2,6 +2,9 @@
 
 **Python, NumPy polygon clipping for concave and convex polygons.**
 
+Source code is part of numpy_geometry... `npg`.
+
+[Polygon clipping source code](https://github.com/Dan-Patterson/numpy_geometry/blob/master/arcpro_npg/npg/npg/npg_clip.py)
 
 This implementation sets out to determine the intersection (clip) between two polygons.
 I employed
