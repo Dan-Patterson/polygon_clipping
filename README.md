@@ -28,21 +28,30 @@ I don't cover interior holes, but it could be included by processing the exterio
 
 |      single cross examples|  |
 | ------------ | -------- |
-| <img src="images/single_cross_s01_t0.png" width="350"/> | <img src="images/single_cross_s00_t0.png" width="350"/> |
-| Single segment crossing two segments, no intersections at vertices.| This intersection points meet at the vertices of a line segment. |
-| <img src="images/single_cross_c2CC.png" width="350"/> | <img src="images/b0c0_intersect_0.png" width="350"/> |
-|  A single vertex meets an intersection point.  | Three single crosses, no intersection with vertices |
+| <img src="images/p00_c00.png" width="350"/> | <img src="images/p00_c00_clipped.png" width="350"/> |
+| Clip segments meet on polygon, no intersections at vertices.| Clip result. |
+| <img src="images/p00_c01.png" width="350"/> | <img src="images/p00_c01_clipped.png" width="350"/> |
+| Clip segments cross over polygon segments, no intersections at vertices.| Clip result. |
+| <img src="images/p00_c02.png" width="350"/> | <img src="images/p00_c02_clipped.png" width="350"/> |
+| Multiple clip segments cross over polygon segments, no intersections at vertices.| Clip result. |
+| <img src="images/p00_c03.png" width="350"/> | <img src="images/p00_c03_clipped.png" width="350"/> |
+| A single vertex meets an intersection point.  |  Clip result. |
+| <img src="images/p01_c00.png" width="350"/> | <img src="images/p01_c00_clipped.png" width="350"/> |
+| First clip vertex meets polygon vertex, two others on line.  |  Clip result.|
+| <img src="images/p01_c01.png" width="350"/> | <img src="images/p01_c01_clipped.png" width="350"/> |
+| More  |  Clip result.|
+| <img src="images/p01_c02.png" width="350"/> | <img src="images/p01_c02_clipped.png" width="350"/> |
+| More  |  Clip result.|
+| <img src="images/p02_c00.png" width="350"/> | <img src="images/p02_c00_clipped.png" width="350"/> |
+| More  |  Clip result.|
+| <img src="images/p02_c01.png" width="350"/> | <img src="images/p02_c01_clipped.png" width="350"/> |
+| More  |  Clip result.|
+| <img src="images/p02_c02.png" width="350"/> | <img src="images/p02_c02_clipped.png" width="350"/> |
+| More  |  Clip result.|
+| <img src="images/p02_c03.png" width="350"/> | <img src="images/p02_c03_clipped.png" width="350"/> |
+| More  |  Clip result.|
 
-</p>
 
-<p>
-
-|   double cross examples|   |
-| ------------ | -------- |
-| <img src="images/double_cross_t4s02.png"  width="350"/>     |            |
-| Two crossing segments. Extra segment vertices can complicate things.  |  |
-
-<p>
 
 |      complex polygon examples|  |
 | ------------ | -------- |
