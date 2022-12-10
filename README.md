@@ -38,13 +38,7 @@ I don't cover interior holes, but it could be included by processing the exterio
 | A single vertex meets an intersection point.  |  Clip result. |
 | <img src="images/p01_c00.png" width="350"/> | <img src="images/p01_c00_clipped.png" width="350"/> |
 | First clip vertex meets polygon vertex, two others on line.  |  Clip result.|
-| <img src="images/p01_c01.png" width="350"/> | <img src="images/p01_c01_clipped.png" width="350"/> |
-| More  |  Clip result.|
 | <img src="images/p01_c02.png" width="350"/> | <img src="images/p01_c02_clipped.png" width="350"/> |
-| More  |  Clip result.|
-| <img src="images/p02_c00.png" width="350"/> | <img src="images/p02_c00_clipped.png" width="350"/> |
-| More  |  Clip result.|
-| <img src="images/p02_c01.png" width="350"/> | <img src="images/p02_c01_clipped.png" width="350"/> |
 | More  |  Clip result.|
 | <img src="images/p02_c02.png" width="350"/> | <img src="images/p02_c02_clipped.png" width="350"/> |
 | More  |  Clip result.|
