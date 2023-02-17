@@ -52,6 +52,20 @@ I don't cover interior holes, but it could be included by processing the exterio
 | <img src="images/edgy1_eclip_inputs.png" width="400"/> | <img src="images/edgy1_eclip.png" width="400"/> |
 
 The blue polygon is the clipping polygon and the black one is the polygon being clipped.
+
+
+| another concave example|   |
+| ------------ | -------- |
+| <img src="images/plcl_01.png" width="400"/> | <img src="images/plcl_02.png" width="400"/> |
+| Input polygon  |  Clipping polygon|
+| <img src="images/plcl_03.png" width="400"/> | <img src="images/plcl_04.png" width="400"/> |
+| More  |  Clip result.|
+
+| Annotated result|
+| <img src="images/plcl_04_annotated.png" width="800"/> |
+| More  |
+
+
 </p>
 <br clear="right">
 
